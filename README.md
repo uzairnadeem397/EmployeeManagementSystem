@@ -1,18 +1,6 @@
 # Employee Management System in C#
 
-A comprehensive Employee Management System (EMS) built with C# and Windows Forms. This desktop application allows for user authentication, managing employee records (CRUD operations), handling employee salaries, and viewing dashboard summaries. Data is persisted using a SQL Server LocalDB (`.mdf` file).
-
-**Developed by:** (Original author: marcoman2, adapted for course submission by Haider Hussain)
-**Student (for this version):** Haider Hussain
-**Reg No.:** 2023-ag-9542
-**Course:** CS-412 Visual Programming
-**Instructor:** Sir Saeed Rasheed
-
-## Video Demo
-
-[![Employee Management System Demo](https://img.youtube.com/vi/8LlitCpjoxA/0.jpg)](https://youtu.be/8LlitCpjoxA?si=18w16a_R-Zl4XJce)
-
-*Click the image above or use this link to watch the demo: [https://youtu.be/8LlitCpjoxA?si=18w16a_R-Zl4XJce](https://youtu.be/8LlitCpjoxA?si=18w16a_R-Zl4XJce)*
+A comprehensive Employee Management System (EMS) built with C# and Windows Forms. This desktop application allows for user authentication, managing employee records (CRUD operations), handling employee salaries, and viewing dashboard summaries. Data is persisted using a SQL Server LocalDB (`.mdf` file.
 
 ## Features
 
@@ -34,19 +22,6 @@ A comprehensive Employee Management System (EMS) built with C# and Windows Forms
 *   **IDE:** Microsoft Visual Studio 2019 (or later)
 *   **Database:** SQL Server LocalDB (`.mdf` file)
 *   **Data Access:** ADO.NET (`SqlConnection`, `SqlCommand`, etc.)
-
-## Screenshots
-
-*(Ideally, add 2-4 key screenshots of your application here. You can link them from your repository if you add them to an `assets` or `screenshots` folder within the repository.)*
-
-**Example: Login Screen**
-`![Login Screen](path/to/your/login_screenshot.png)`
-
-**Example: Main Dashboard**
-`![Main Dashboard](path/to/your/dashboard_screenshot.png)`
-
-**Example: Add Employee Module**
-`![Add Employee Module](path/to/your/addemployee_screenshot.png)`
 
 ## Setup and Running the Project
 
